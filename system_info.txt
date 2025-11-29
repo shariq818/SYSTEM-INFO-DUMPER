@@ -1,0 +1,18 @@
+Timestamp (UTC): 2025-11-29T21:35:22.785749Z
+Hostname: Hacker
+Platform: Windows 10 (AMD64)
+Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+Python: 3.11.7
+
+CPU cores (logical/physical): 12 / 6
+CPU freq (Mhz): current=2592.0 min=0.0 max=2592.0
+CPU instant usage (%): 14.7
+Memory used/total (MB): 20340.3 / 40280.48
+Memory %: 50.5
+Disk partitions:
+  C:\ (C:\) - 475.8 GB, 91.7% used
+  D:\ (D:\) - 931.51 GB, 45.9% used
+
+Local IPs: 192.168.100.122, 2407:d000:403:1959:6019:136c:7cdd:e33e, 2407:d000:403:1959:b47c:3bfc:5c55:e382, fe80::8d79:9f67:8fad:240c
+Primary local IP (hostname resolved): 192.168.100.122
+Public IP: 206.84.189.13
